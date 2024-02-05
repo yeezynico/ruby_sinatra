@@ -24,4 +24,5 @@ class Gossip
   def self.find(id)
     return self.all[id]
   end
+
 end
